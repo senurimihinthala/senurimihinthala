@@ -5,7 +5,7 @@
 - 🛠️ Tools I use: **Python**, **SQL**, **Power BI**, **Tableau**, **Excel**, **R**, **Jupyter Notebooks**
 - 🌱 I’m currently learning **machine learning** and **predictive analytics**.
 - 👯 I’m looking to collaborate on **data-driven projects** that create business impact.
-- 📬 How to reach me: [LinkedIn](Senuri Keshani Mihinthala) | [Email](senurikeshani79gmail )
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/senuri-keshani-mihinthala-83680621a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) | [Email](senurikeshani79gmail )
 - 🧠 Fun fact: I love solving complex problems and telling stories with data!
 - 🔧 Pronouns: She/Her
 
